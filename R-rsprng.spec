@@ -10,6 +10,7 @@ License:          GPL version 2 or newer
 URL:              None
 Source0:          http://cran.r-project.org/src/contrib/Archive/rsprng/rsprng_0.4.tar.gz
 BuildRequires:    R-devel texlive-collection-latex 
+BuildRequires:    gmp-devel
 BuildRequires:    sprng-devel
 
 %description
