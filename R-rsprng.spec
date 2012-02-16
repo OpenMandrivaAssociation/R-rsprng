@@ -9,8 +9,8 @@ Group:            Sciences/Mathematics
 License:          GPL version 2 or newer
 URL:              None
 Source0:          http://cran.r-project.org/src/contrib/Archive/rsprng/rsprng_0.4.tar.gz
-BuildRequires:    Rmath-devel texlive-collection-latex 
-BuildRequires:    rsprng-devel
+BuildRequires:    R-devel texlive-collection-latex 
+BuildRequires:    sprng-devel
 
 %description
 Provides interface to SPRNG 2.0 APIs, and examples and documentation for
