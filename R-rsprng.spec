@@ -7,7 +7,7 @@ Release:          1
 Summary:          R interface to SPRNG (Scalable Parallel Random Number Generators)
 Group:            Sciences/Mathematics
 License:          GPL version 2 or newer
-URL:              None
+URL:              http://cran.r-project.org/web/packages/rsprng/index.html
 Source0:          http://cran.r-project.org/src/contrib/Archive/rsprng/rsprng_0.4.tar.gz
 BuildRequires:    R-devel texlive-collection-latex 
 BuildRequires:    gmp-devel
