@@ -41,3 +41,15 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/R
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/libs
+
+
+%changelog
+* Thu Feb 16 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0-1
++ Revision: 774960
+- Update to latest version
+
+* Thu Feb 16 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.4-1
++ Revision: 774636
+- Import R-rsprng
+- Import R-rsprng
+
