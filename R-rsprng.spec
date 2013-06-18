@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.0
-Release:          1
+Release:          2
 Summary:          R interface to SPRNG (Scalable Parallel Random Number Generators)
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
